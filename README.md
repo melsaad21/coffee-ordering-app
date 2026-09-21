@@ -1,3 +1,9 @@
+## Demo
+
+Watch the project demo here:
+
+https://youtu.be/3mTJhc-RVuE
+
 # Coffee Ordering Application
 
 A console-based coffee ordering application built with Python.
